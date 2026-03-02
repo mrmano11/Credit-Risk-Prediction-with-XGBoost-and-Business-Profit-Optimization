@@ -102,7 +102,7 @@ This demonstrates that threshold tuning significantly improves financial perform
 
 ---
 
-## 👨‍💻 thor
+## 👨‍💻 Author
 
 Mohanarengan S
 Final-year Student
