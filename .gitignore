@@ -1,0 +1,15 @@
+# Environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Data / outputs
+data.csv
+*.pkl
+
+# Streamlit cache
+.streamlit/
+
+# OS
+.DS_Store
